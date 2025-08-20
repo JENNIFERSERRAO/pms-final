@@ -18,7 +18,7 @@ This project demonstrates **secure architecture, authentication flows, and breac
 - Have I Been Pwned API  
 - SonarQube, Bandit  
 - IriusRisk  
-- STRIDE, OWASP, NIST CSF 2.0  
+- STRIDE, OWASP 
 
 ## 🔹 Key Outcomes
 - Implemented a secure authentication flow aligned with **OWASP password policies**.  
